@@ -2,3 +2,9 @@ p {
   background-color: blanchedalmond;
   text-align: center;
 }
+div {
+  background-color: burlywood;
+  margin: 10px;
+  border: 10px solid antiquewhite;
+  border-radius: 10px;
+}
