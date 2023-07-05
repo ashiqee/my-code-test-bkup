@@ -8,3 +8,10 @@ div {
   border: 10px solid antiquewhite;
   border-radius: 10px;
 }
+
+header {
+  background-image: url("https://www.ird.lk/wp-content/uploads/2018/11/2.jpg");
+  height: 400px;
+  padding: 20px;
+  border-radius: 30px;
+}
