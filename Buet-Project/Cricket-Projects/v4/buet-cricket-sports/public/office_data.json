@@ -1,0 +1,332 @@
+[
+  {
+    "deptID": 1,
+    "Department_office": "Accident Research Institute",
+    "sort": "ARI"
+  },
+  {
+    "deptID": 2,
+    "Department_office": "Ahsan Ullah Hall",
+    "sort": "AUH"
+  },
+  {
+    "deptID": 3,
+    "Department_office": "Audit",
+    "sort": "AUDIT"
+  },
+  {
+    "deptID": 4,
+    "Department_office": "BUET- Japan Institute of Disaster Prevention and Urban Safety",
+    "sort": "JIDPUS"
+  },
+  {
+    "deptID": 5,
+    "Department_office": "Bangamata Sheikh Fazilatunnesa Mujib Hall",
+    "sort": "BSFMH"
+  },
+  {
+    "deptID": 6,
+    "Department_office": "Bangladesh Network Office for Urban Safety",
+    "sort": "BNUS"
+  },
+  {
+    "deptID": 7,
+    "Department_office": "Biomedical Engineering Centre",
+    "sort": "BEC"
+  },
+  {
+    "deptID": 8,
+    "Department_office": "Bureau of Research, Testing And Consultation",
+    "sort": "BRTC"
+  },
+  {
+    "deptID": 9,
+    "Department_office": "Central Library",
+    "sort": "CL"
+  },
+  {
+    "deptID": 10,
+    "Department_office": "Central Mosque and Other Mosque",
+    "sort": "CMOS"
+  },
+  {
+    "deptID": 11,
+    "Department_office": "Centre For Envir. And Resource Management",
+    "sort": "CERM"
+  },
+  {
+    "deptID": 12,
+    "Department_office": "Centre for Regional Development Studies",
+    "sort": "CRDS"
+  },
+  {
+    "deptID": 13,
+    "Department_office": "Comptroller Office Accounts and Finance",
+    "sort": "Comptroller"
+  },
+  {
+    "deptID": 14,
+    "Department_office": "Department of Architecture",
+    "sort": "ARCH"
+  },
+  {
+    "deptID": 15,
+    "Department_office": "Department of Biomedical Engineering",
+    "sort": "BME"
+  },
+  {
+    "deptID": 16,
+    "Department_office": "Department of Chemical Engineering",
+    "sort": "ChE"
+  },
+  {
+    "deptID": 17,
+    "Department_office": "Department of Chemistry",
+    "sort": "CHEM"
+  },
+  {
+    "deptID": 18,
+    "Department_office": "Department of Civil Engineering",
+    "sort": "CE"
+  },
+  {
+    "deptID": 19,
+    "Department_office": "Department of Computer Science and Engineering",
+    "sort": "CSE"
+  },
+  {
+    "deptID": 20,
+    "Department_office": "Department of Electrical and Electronic Engineering",
+    "sort": "EEE"
+  },
+  {
+    "deptID": 21,
+    "Department_office": "Department of Humanities",
+    "sort": "HUM"
+  },
+  {
+    "deptID": 22,
+    "Department_office": "Department of Industrial and Production Engineering",
+    "sort": "IPE"
+  },
+  {
+    "deptID": 23,
+    "Department_office": "Department of Materials & Metallurgical Engineering",
+    "sort": "MME"
+  },
+  {
+    "deptID": 24,
+    "Department_office": "Department of Mathematics",
+    "sort": "MATH"
+  },
+  {
+    "deptID": 25,
+    "Department_office": "Department of Mechanical Engineering",
+    "sort": "ME"
+  },
+  {
+    "deptID": 26,
+    "Department_office": "Department of Nanomaterials and Ceramic Engineering",
+    "sort": "NCE"
+  },
+  {
+    "deptID": 27,
+    "Department_office": "Department of Naval Arch. And Marine Engineering",
+    "sort": "NAME"
+  },
+  {
+    "deptID": 28,
+    "Department_office": "Department of Petroleum and Mineral Resources Engineering",
+    "sort": "PMRE"
+  },
+  {
+    "deptID": 29,
+    "Department_office": "Department of Physics",
+    "sort": "Phy"
+  },
+  {
+    "deptID": 30,
+    "Department_office": "Department of Urban and Regional Planning",
+    "sort": "URP"
+  },
+  {
+    "deptID": 31,
+    "Department_office": "Department of Water Resources Engineering",
+    "sort": "WRE"
+  },
+  {
+    "deptID": 32,
+    "Department_office": "Directorate of Advisory Extension and Research Services",
+    "sort": "DAERS"
+  },
+  {
+    "deptID": 33,
+    "Department_office": "Directorate of Continuing Education",
+    "sort": "DCE"
+  },
+  {
+    "deptID": 34,
+    "Department_office": "Directorate of Planning and Development",
+    "sort": "P&D"
+  },
+  {
+    "deptID": 35,
+    "Department_office": "Directorate of Student Welfare",
+    "sort": "DSW"
+  },
+  {
+    "deptID": 36,
+    "Department_office": "Dr. M.A. Rashid Hall",
+    "sort": "RH"
+  },
+  {
+    "deptID": 37,
+    "Department_office": "Health Complex",
+    "sort": "MEDICAL"
+  },
+  {
+    "deptID": 38,
+    "Department_office": "ICT Cell",
+    "sort": "ICTCELL"
+  },
+  {
+    "deptID": 39,
+    "Department_office": "Institute of Appropriate Technology",
+    "sort": "IAT"
+  },
+  {
+    "deptID": 40,
+    "Department_office": "Institute of Energy and Sustainable Development",
+    "sort": "IESD"
+  },
+  {
+    "deptID": 41,
+    "Department_office": "Institute of Information and Communication Technology",
+    "sort": "IICT"
+  },
+  {
+    "deptID": 42,
+    "Department_office": "Institute of Nuclear Power Engineering",
+    "sort": "INPE"
+  },
+  {
+    "deptID": 43,
+    "Department_office": "Institute of Robotics and Automation",
+    "sort": "IRAB"
+  },
+  {
+    "deptID": 44,
+    "Department_office": "Institute of Water And Flood Management",
+    "sort": "IWFM"
+  },
+  {
+    "deptID": 45,
+    "Department_office": "Institutional Quality Assurance Cell",
+    "sort": "IQAC"
+  },
+  {
+    "deptID": 46,
+    "Department_office": "International Training Network Centre",
+    "sort": "ITN"
+  },
+  {
+    "deptID": 47,
+    "Department_office": "Nazrul Islam Hall",
+    "sort": "NIH"
+  },
+  {
+    "deptID": 48,
+    "Department_office": "Office of the Chief Engineer",
+    "sort": "Engieering"
+  },
+  {
+    "deptID": 49,
+    "Department_office": "Office of the Controller of Examinations",
+    "sort": "COE"
+  },
+  {
+    "deptID": 50,
+    "Department_office": "Office of the DSW",
+    "sort": "DSW"
+  },
+  {
+    "deptID": 51,
+    "Department_office": "Office of the Faculty of Arch and Planning",
+    "sort": "DARCH"
+  },
+  {
+    "deptID": 52,
+    "Department_office": "Office of the Faculty of Civil Engineering",
+    "sort": "DCIVIL"
+  },
+  {
+    "deptID": 53,
+    "Department_office": "Office of the Faculty of EEE",
+    "sort": "DEEE"
+  },
+  {
+    "deptID": 54,
+    "Department_office": "Office of the Faculty of Engineering",
+    "sort": "DE"
+  },
+  {
+    "deptID": 55,
+    "Department_office": "Office of the Faculty of ME",
+    "sort": "DME"
+  },
+  {
+    "deptID": 56,
+    "Department_office": "Office of the Faculty of Post Graduate Studies",
+    "sort": "DPGS"
+  },
+  {
+    "deptID": 57,
+    "Department_office": "Office of the Pro-Vice Chancellor",
+    "sort": "PROVC"
+  },
+  {
+    "deptID": 58,
+    "Department_office": "Office of the Vice Chancellor",
+    "sort": "VC"
+  },
+  {
+    "deptID": 59,
+    "Department_office": "Physical Education",
+    "sort": "PE"
+  },
+  {
+    "deptID": 60,
+    "Department_office": "Registrar Office",
+    "sort": "REGISTER"
+  },
+  {
+    "deptID": 61,
+    "Department_office": "Research and Innovation Centre for Science and Engineering",
+    "sort": "RISE"
+  },
+  {
+    "deptID": 62,
+    "Department_office": "Sabekun Nahar Sony Hall",
+    "sort": "SNSH"
+  },
+  {
+    "deptID": 63,
+    "Department_office": "Shahid Smrity Hall",
+    "sort": "SSH"
+  },
+  {
+    "deptID": 64,
+    "Department_office": "Sher-e-Bangla Halll",
+    "sort": "SBH"
+  },
+  {
+    "deptID": 65,
+    "Department_office": "Suhrawardy Hall",
+    "sort": "SH"
+  },
+  {
+    "deptID": 66,
+    "Department_office": "Titumir Hall",
+    "sort": "TH"
+  }
+]
